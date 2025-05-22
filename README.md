@@ -96,7 +96,7 @@ accuracy=metrics.accuracy_score(y_test,y_pred)
 
 accuracy
 ```
-![image](https://github./user-attachments/assets/d3f93851-0c26-469a-96f3-63a9d7d59ee7)
+![image](https://github.com/user-attachments/assets/90f0a16a-b062-47aa-b1be-45b6cfb145ca)
 
 ```
 dt.predict([[0.5,0.8,9,260, 6,0,1,2]])
